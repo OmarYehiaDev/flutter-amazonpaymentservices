@@ -4,8 +4,8 @@ import com.payfort.fortpaymentsdk.FortSdk;
 
 public class Constants {
 
-    private static final String ENV_SB = "https://sbcheckout.payfort.com/";
-    private static final String ENV_PROD = "https://checkout.payfort.com/";
+    private static final String ENV_SB = "https://sbpaymentservices.payfort.com/";
+    private static final String ENV_PROD = "https://paymentservices.payfort.com/";
 
 
 
